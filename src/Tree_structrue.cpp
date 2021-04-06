@@ -1,6 +1,6 @@
 #include<iostream>
 #include<queue>
-#include "Tree_structrue.h"
+#include "../include/Tree_structrue.h"
  bool IsEmpty(node*pare)
 {
      if (!pare)
