@@ -1,2 +1,2 @@
 all:
-	g++ ../src/main.cpp -o Tree
+	g++ ../src/Binary_Tree.cpp -o Tree
