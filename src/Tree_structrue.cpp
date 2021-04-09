@@ -11,7 +11,7 @@
      else
          return 0;
 }
- void Insert_Element(node*pare,int value)
+ void Insert_Element(node* &pare,int value)
  {
      if (!pare)
      {
